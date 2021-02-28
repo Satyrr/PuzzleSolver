@@ -1,0 +1,12 @@
+xtick.labelsize: 17
+ytick.labelsize: 17
+font.size: 20
+figure.autolayout: True
+figure.figsize: 7.2,4.45
+axes.titlesize : 20
+axes.labelsize : 17
+lines.linewidth : 2
+lines.markersize : 6
+legend.fontsize: 15
+mathtext.fontset: stix
+font.family: Roboto
